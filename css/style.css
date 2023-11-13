@@ -24,8 +24,8 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    box-shadow: 0 4px 8px 0 rgba(255,255,0);
-                0 6px 20px 0 rgba(0,0,255);
+    box-shadow: 0 4px 8px 0 rgba(FFFF00);
+                0 6px 20px 0 rgba(00FF7F);
 }
 
 .info_box.activeInfo,
