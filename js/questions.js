@@ -2,13 +2,13 @@
 let questions = [
   {
     numb: 1,
-    question: "Qual país foi o vencedor da ultima copa do mundo?"
-    answer: "Alemanha"
+    question: "Qual país foi o vencedor da ultima copa do mundo?",
+    answer: "Alemanha",
     options: [
-      "Itália"
-      "Argentina"
-      "Brasil"
-      "Alemanha"
+      "Itália",
+      "Argentina",
+      "Brasil",
+      "Alemanha",
     ]
   },
   {
@@ -19,7 +19,7 @@ let questions = [
       "São Paulo",
       "Minas Gerais",
       "Curitiba",
-      "Mato Grosso"
+      "Mato Grosso",
     ]
   },
   {
@@ -30,7 +30,7 @@ let questions = [
       "Jair Bolsonaro",
       "Dilma",
       "Padre kelmon",
-      "Simône Tebeth"
+      "Simône Tebeth",
     ]
   },
   {
@@ -38,7 +38,7 @@ let questions = [
     question: "Qual o feminino de camelo?",
     answer: "camela",
     options: [
-      "leoa" ,
+      "leoa",
       "jacaroa",
       "camela",
       "cavala",
@@ -52,7 +52,7 @@ let questions = [
       "Manguezal",
       "Mangueiro",
       "Mangue",
-      "Mangada"
+      "Mangada",
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
