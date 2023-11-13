@@ -46,13 +46,13 @@ let questions = [
   },
   {
     numb: 5,
-    question: "Qual o nome que se dá a um pé de manga?",
-    answer: "Mangueira",
+    question: "Qual o nome que se dá a um pé de manga?"
+    answer: "Mangueira"
     options: [
-      "Manguezal",
-      "Mangueiro",
-      "Mangue",
-      "Mangada",
+      "Manguezal"
+      "Mangueiro"
+      "Mangue"
+      "Mangada"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
