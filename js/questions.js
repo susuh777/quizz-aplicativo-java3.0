@@ -19,7 +19,7 @@ let questions = [
       "São Paulo",
       "Minas Gerais",
       "Curitiba",
-      "Mato Grosso",
+      "Brasília",
     ]
   },
   {
@@ -30,7 +30,7 @@ let questions = [
       "Jair Bolsonaro",
       "Dilma",
       "Padre kelmon",
-      "Simône Tebeth",
+      "Luís Inácio Lula Da silva",
     ]
   },
   {
