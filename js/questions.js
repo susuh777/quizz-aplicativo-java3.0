@@ -2,57 +2,57 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    question: "Qual país foi o vencedor da ultima copa do mundo?"
+    answer: "Alemanha"
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "Itália"
+      "Argentina"
+      "Brasil"
+      "Alemanha"
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
+    question: "qual a capital do brasil?",
+    answer: "Brasília",
     options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+      "São Paulo",
+      "Minas Gerais",
+      "Curitiba",
+      "Mato Grosso"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
+    question: "Qual o nome do presidente do Brasil?",
+    answer: "Luís Inácio Lula da Silva",
     options: [
-      "Equinócio de outono",
-      "Solstício de inverno",
-      "Solstício de verão",
-      "Solstício de outono"
+      "Jair Bolsonaro",
+      "Dilma",
+      "Padre kelmon",
+      "Simône Tebeth"
     ]
   },
   {
     numb: 4,
-    question: "Quantos pares de costelas um ser humano, normalmente, possui?",
-    answer: "12",
+    question: "Qual o feminino de camelo?",
+    answer: "camela",
     options: [
-      "12",
-      "11",
-      "14",
-      "13"
+      "leoa" ,
+      "jacaroa",
+      "camela",
+      "cavala",
     ]
   },
   {
     numb: 5,
-    question: "Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?",
-    answer: "Vênus e Urano",
+    question: "Qual o nome que se dá a um pé de manga?",
+    answer: "Mangueira",
     options: [
-      "Saturno e Júpiter",
-      "Vênus e Urano",
-      "Terra e Marte",
-      "Mercúrio e Saturno"
+      "Manguezal",
+      "Mangueiro",
+      "Mangue",
+      "Mangada"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
